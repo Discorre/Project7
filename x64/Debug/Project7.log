@@ -1,0 +1,3 @@
+﻿  FileName1.cpp
+D:\mvsc\Project7\FileName1.cpp(16,21): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Project7.vcxproj -> D:\mvsc\Project7\x64\Debug\Project7.exe
